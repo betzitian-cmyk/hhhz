@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Canadian Invoice Parser \u0026 Compliance Workspace",
+  "description": "An expert, CRA and Revenu Québec compliant optical invoice extraction and tax audit system powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
